@@ -83,7 +83,15 @@ I am a **Business Intelligence & Business Analyst Professional** with **over a d
 | Category | Credentials |
 |---|---|
 | **Education** | **Mini-MBA** — Tekedia Institute (2023) &nbsp;·&nbsp; **B.Sc. Quantity Surveying** — University of Lagos, Nigeria |
-| **Certifications** | **PMP** *(Project Management Institute)* &nbsp;·&nbsp; **PMI-PBA** *(Professional Business Analysis — PMI)* &nbsp;·&nbsp; **CSPO** *(Scrum Alliance)* &nbsp;·&nbsp; **CSM** *(Scrum Alliance)* &nbsp;·&nbsp; **Estimating & Bidding** *(ASPE)* |`Master Business Analyst (MBA) – Professional Certification`
+| **Certifications** | **PMP** *(Project Management Institute)* &nbsp;·&nbsp; **PMI-PBA** *(Professional Business Analysis — PMI)* &nbsp;·&nbsp; **CSPO** *(Scrum Alliance)* &nbsp;·&nbsp; **CSM** *(Scrum Alliance)* &nbsp;·&nbsp; **Estimating & Bidding** *(ASPE)* |`Master Business Analyst <box border radius="lg" padding={3} gap={2}>
+  <text weight="medium" size="sm">Copy this exact Markdown:</text>
+  <text size="sm">`&nbsp;&nbsp; **Master Business Analyst (MBA)** *(Professional Certification)*`</text>
+  <row justify="end">
+    <button color="primary" size="sm" onClick={() => GenUI.copy("&nbsp;&nbsp; **Master Business Analyst (MBA)** *(Professional Certification)*")}>
+      <icon name="copy" size="xs"/> Copy
+    </button>
+  </row>
+</box>
 
 ---
 
