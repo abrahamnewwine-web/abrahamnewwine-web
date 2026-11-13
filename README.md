@@ -90,6 +90,12 @@ I am a **Business Intelligence & Business Analyst Professional** with **over a d
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrahamnewwine-web&theme=tokyonight" alt="Abraham Adetola GitHub Activity" width="700" />
 </div>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=abrahamnewwine-web&theme=radical&title=MultiLanguage,Stars,Commits,Followers,Repositories,PullRequest&column=6" alt="Abraham Adetola GitHub Trophies" />
+</div>
+
 <p align="center">
   <strong>Open to Senior Business Intelligence, Business Analysis &amp; Transformation engagements.</strong><br/>
   Reach out at <a href="mailto:abrahamnewwine@gmail.com">abrahamnewwine@gmail.com</a> · Atlanta, Georgia, USA
