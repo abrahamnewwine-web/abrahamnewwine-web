@@ -83,7 +83,7 @@ I am a **Business Intelligence & Business Analyst Professional** with **over a d
 | Category | Credentials |
 |---|---|
 | **Education** | **Mini-MBA** — Tekedia Institute (2023) &nbsp;·&nbsp; **B.Sc. Quantity Surveying** — University of Lagos, Nigeria |
-| **Certifications** | **PMP** *(Project Management Institute)* &nbsp;·&nbsp; **PMI-PBA** *(Professional Business Analysis — PMI)* &nbsp;·&nbsp; **CSPO** *(Scrum Alliance)* &nbsp;·&nbsp; **CSM** *(Scrum Alliance)* &nbsp;·&nbsp; **Estimating & Bidding** *(ASPE)* |
+| **Certifications** | **PMP** *(Project Management Institute)* &nbsp;·&nbsp; **PMI-PBA** *(Professional Business Analysis — PMI)* &nbsp;·&nbsp; **CSPO** *(Scrum Alliance)* &nbsp;·&nbsp; **CSM** *(Scrum Alliance)* &nbsp;·&nbsp; **Estimating & Bidding** *(ASPE)* |`Master Business Analyst (MBA) – Professional Certification`
 
 ---
 
