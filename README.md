@@ -24,7 +24,8 @@
 
 I am a **Business Intelligence & Business Analyst Professional** with **over a decade of cross-sector experience** spanning engineering, construction, business intelligence, and technology-enabled environments across the UK, US, and Nigeria. I specialize in turning complex operational data and ambiguous stakeholder needs into **decision-ready Power BI semantic models, SQL warehouses, automated analytical applications, and governed BA documentation**.
 
-- **Core Focus Areas:** `Business Intelligence` · `Business Analysis` · `Business Transformation` · `Data Analytics` · `Project Management` · `Construction Technology`. ' Automation' 
+- **Core Focus Areas:** `Business Intelligence` · `Business Analysis` · `Business Transformation` · `Data Analytics` · `Project Management` · `Construction Technology`. `AI & Automation`</text>
+  <row justify="end"> 
 - **Analytical Governance:** Requirements elicitation (`BRD`, `PRD`, `UAT`, `RACI`, `Gap Analysis`), KPI architecture, data modeling, and end-to-end Scrum delivery.
 
 ---
