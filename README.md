@@ -52,7 +52,9 @@ I am a **Business Intelligence & Business Analyst Professional** with **over a d
     </td>
     <td width="50%" valign="top">
       <strong>Business Analysis &amp; Delivery</strong><br/>
-      <code>BRD &amp; PRD Authoring</code> · <code>Requirements Traceability (RTM)</code> · <code>UAT &amp; Defect Governance</code> · <code>RACI &amp; Gap Analysis</code> · <code>Use Cases</code> · <code>Data Governance</code> · <code>JIRA</code> · <code>Azure DevOps</code> · <code>Confluence</code> · <code>MS Project</code> · <code>Asana</code> · <code>Trello</code> · <code>Bluebeam</code>
+      <code>BRD &amp; PRD Authoring</code> · <code>Requirements Traceability (RTM)</code> · <code>UAT &amp; Defect Governance</code> · <code>RACI &amp; Gap Analysis</code> · <code>Use Cases</code> · <code>Data Governance</code> · <code>JIRA</code> · <code>Azure DevOps</code> · <code>Confluence</code> · <code>MS Project</code> · <code>Asana</code> · <code>Trello</code> · <code>Bluebeam</code> 
+· <code>n8n</code> · <code>Airtable</code> · <code>monday.com</code>
+
     </td>
   </tr>
 </table>
