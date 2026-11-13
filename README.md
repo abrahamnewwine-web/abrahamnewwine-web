@@ -87,10 +87,7 @@ I am a **Business Intelligence & Business Analyst Professional** with **over a d
 ## GitHub Activity &amp; Contact
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrahamnewwine-web&theme=tokyonight" alt="Abraham Adetola GitHub Activity" height="175" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abrahamnewwine-web&theme=tokyonight" alt="Abraham Adetola GitHub Stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrahamnewwine-web&theme=tokyonight" alt="Top Languages by Repo" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrahamnewwine-web&theme=tokyonight" alt="Abraham Adetola GitHub Activity" width="700" />
 </div>
 
 <p align="center">
