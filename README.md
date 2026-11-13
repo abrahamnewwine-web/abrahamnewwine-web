@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:12213d,100:0f3d5e&height=210&section=header&text=Abraham%20Adetola&fontSize=44&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Business%20Intelligence%20%7C%20Business%20Analysis%20%7C%20Data%20Analytics%20%7C%20Business%20Transformation&descSize=15&descColor=e2e8f0&descAlignY=62" alt="Abraham Adetola Header Banner" width="100%" />
-
+ 
   <h3><em>Bridging Business Strategy, Data Intelligence, and Technology-Enabled Transformation.</em></h3>
 
   <p>
